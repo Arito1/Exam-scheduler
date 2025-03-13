@@ -88,10 +88,7 @@ mvn spring-boot:run
 ---
 
 ## Team Members
-- To be determined
-
----
-
-## Contact
-For any inquiries, feel free to reach out to the team.
+ Sapashev Arthur
+Dosanov Kazhikeldy
+Temirbulatov Amir
 
